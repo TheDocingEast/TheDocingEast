@@ -1,6 +1,11 @@
 # Kirill Porubov
 
+<<<<<<< HEAD
 ![Background](img/catgirl_night.png)
+=======
+![Uploading catgirl_night.png…]()
+
+>>>>>>> 5ecbe5634595f1d1be7a4b738c06bf9d3b82635f
 
 CS student building ML systems and desktop tools that don't feel like afterthoughts. Based in Riga, moving toward DevOps/MLOps, and convinced that infrastructure done right is invisible.
 
