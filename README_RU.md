@@ -66,13 +66,13 @@
 
 **Auri (Private)** — развивающийся AI-агент, спроектированный для роста через естественное взаимодействие, без явных сигналов вознаграждения. Четырёхуровневая архитектура памяти, QLoRA файнтюнинг через unsloth, векторное хранилище Qdrant, интерфейс через Discord. В разработке.
 
-**[Ollama TUI](https://github.com/TheDocingEast/Ollama_TUI)** — терминальный интерфейс для работы с LLM через Ollama. Написан на Python с Textual, поддерживает отправку изображений и работу с несколькими моделями одновременно. WIP.
+**[Ollama TUI](https://github.com/TheDoukiDrift/Ollama_TUI)** — терминальный интерфейс для работы с LLM через Ollama. Написан на Python с Textual, поддерживает отправку изображений и работу с несколькими моделями одновременно. WIP.
 
-**[Quickshell](https://github.com/TheDocingEast/NaviOS-dotfiles)** — кастомный Wayland-шелл для Hyprland на QML. Включает селектор обоев с поддержкой GIF, экран блокировки и TTS/voice changer UI с интеграцией PipeWire virtual sink.
+**[Quickshell](https://github.com/TheDoukiDrift/NaviOS-dotfiles)** — кастомный Wayland-шелл для Hyprland на QML. Включает селектор обоев с поддержкой GIF, экран блокировки и TTS/voice changer UI с интеграцией PipeWire virtual sink.
 
-**[Kanban](https://github.com/TheDocingEast/NaviTime)** — desktop-приложение канбан-доска на Python и Qt. Полная схема БД, пользовательские истории, UML-диаграммы.
+**[Kanban](https://github.com/TheDoukiDrift/NaviTime)** — desktop-приложение канбан-доска на Python и Qt. Полная схема БД, пользовательские истории, UML-диаграммы.
 
-**[SnapLearn](https://github.com/TheDocingEast/SnapLearn)** — в разработке.
+**[SnapLearn](https://github.com/TheDoukiDrift/SnapLearn)** — в разработке.
 
 **DevOps Lab (Private)** — балансируемая Nginx-инфраструктура, развёрнутая в Yandex Cloud через Terraform и Ansible. Один балансировщик, два фронтенда.
 
@@ -80,13 +80,13 @@
 
 ## GitHub Статистика
 
-![](https://github-readme-stats.shion.dev/api?username=TheDocingEast&theme=nord&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=TheDocingEast&theme=nord&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=TheDocingEast&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=TheDoukiDrift&theme=nord&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=TheDoukiDrift&theme=nord&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=TheDoukiDrift&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## GitHub Трофеи
 
-![](https://github-profile-trophy.vercel.app/?username=TheDocingEast&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=TheDoukiDrift&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
@@ -98,4 +98,4 @@ Airsoft и milsim с русскоязычной командой — такти�
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=TheDocingEast&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=TheDoukiDrift&icon=0&color=0)](https://visitcount.itsvg.in)
