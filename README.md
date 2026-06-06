@@ -66,13 +66,13 @@ I build things that run reliably — infrastructure, ML pipelines, desktop tools
 
 **Auri (Private)** — developmental AI agent designed to grow through natural interaction rather than explicit reward signals. Four-level memory architecture, QLoRA fine-tuning via unsloth, Qdrant vector storage, Discord interface. Ongoing.
 
-**[Ollama TUI](https://github.com/TheDocingEast/Ollama_TUI)** — terminal interface for working with LLMs served by Ollama. Built in Python with Textual, supports image input and multi-model sessions. WIP.
+**[Ollama TUI](https://github.com/TheDoukiDrift/Ollama_TUI)** — terminal interface for working with LLMs served by Ollama. Built in Python with Textual, supports image input and multi-model sessions. WIP.
 
-**[Quickshell](https://github.com/TheDocingEast/NaviOS-dotfiles)** — custom Wayland shell for Hyprland built in QML. Includes a wallpaper selector with GIF support, a lockscreen, and a TTS/voice changer UI with PipeWire virtual sink integration.
+**[Quickshell](https://github.com/TheDoukiDrift/NaviOS-dotfiles)** — custom Wayland shell for Hyprland built in QML. Includes a wallpaper selector with GIF support, a lockscreen, and a TTS/voice changer UI with PipeWire virtual sink integration.
 
-**[Kanban](https://github.com/TheDocingEast/NaviTime)** — desktop Kanban board application in Python and Qt. Full database schema, user stories, UML diagrams.
+**[Kanban](https://github.com/TheDoukiDrift/NaviTime)** — desktop Kanban board application in Python and Qt. Full database schema, user stories, UML diagrams.
 
-**[SnapLearn](https://github.com/TheDocingEast/SnapLearn)** — in development.
+**[SnapLearn](https://github.com/TheDoukiDrift/SnapLearn)** — in development.
 
 **DevOps Lab (Private)** — load-balanced Nginx infrastructure deployed on Yandex Cloud using Terraform and Ansible. One balancer, two frontends.
 
@@ -80,13 +80,13 @@ I build things that run reliably — infrastructure, ML pipelines, desktop tools
 
 ## GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=TheDocingEast&theme=nord&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=TheDocingEast&theme=nord&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=TheDocingEast&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=TheDoukiDrift&theme=nord&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=TheDoukiDrift&theme=nord&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=TheDoukiDrift&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=TheDocingEast&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=TheDoukiDrift&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
@@ -98,4 +98,4 @@ Airsoft and milsim with a Russian-speaking team — tactics, coordination, gear 
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=TheDocingEast&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=TheDoukiDrift&icon=0&color=0)](https://visitcount.itsvg.in)
