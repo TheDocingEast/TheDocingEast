@@ -98,4 +98,4 @@ Airsoft and milsim with a Russian-speaking team — tactics, coordination, gear 
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=TheDoukiDrift&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=TheDoukiDrift&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
