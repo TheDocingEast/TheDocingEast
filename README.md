@@ -68,7 +68,7 @@ I build things that run reliably — infrastructure, ML pipelines, desktop tools
 
 **[Ollama TUI](https://github.com/TheDoukiDrift/Ollama_TUI)** — terminal interface for working with LLMs served by Ollama. Built in Python with Textual, supports image input and multi-model sessions. WIP.
 
-**[Quickshell](https://github.com/TheDoukiDrift/NaviOS-dotfiles)** — custom Wayland shell for Hyprland built in QML. Includes a wallpaper selector with GIF support, a lockscreen, and a TTS/voice changer UI with PipeWire virtual sink integration.
+**[Driftshell](https://github.com/TheDoukiDrift/NaviOS-dotfiles)** — custom Wayland shell for Hyprland built in QML. Includes a wallpaper selector with GIF support, a lockscreen, and a TTS/voice changer UI with PipeWire virtual sink integration.
 
 **[Kanban](https://github.com/TheDoukiDrift/NaviTime)** — desktop Kanban board application in Python and Qt. Full database schema, user stories, UML diagrams.
 
