@@ -3,7 +3,7 @@
 
 ![Background](img/catgirl_night.png)
 
-CS student building ML systems and desktop tools that don't feel like afterthoughts. Based in Riga, moving toward DevOps/MLOps, and convinced that infrastructure done right is invisible.
+CS student building ML systems and desktop tools that don't feel like afterthoughts. Based in <->, moving toward DevOps/MLOps, and convinced that infrastructure done right is invisible.
 
 I build things that run reliably — infrastructure, ML pipelines, desktop tools, and the occasional system that probably shouldn't exist but does. What actually drives me: ML/AI systems with real architecture behind them, and desktop tools that feel like they were made by someone who uses them.
 
