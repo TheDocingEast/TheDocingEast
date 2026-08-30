@@ -2,9 +2,8 @@
 
 ![Background](img/catgirl_night.png)
 
-CS student building ML systems and desktop tools that don't feel like afterthoughts. Based in <->, moving toward DevOps/MLOps, and convinced that infrastructure done right is invisible.
-
-I build things that run reliably — infrastructure, ML pipelines, desktop tools, and the occasional system that probably shouldn't exist but does. What actually drives me: ML/AI systems with real architecture behind them, and desktop tools that feel like they were made by someone who uses them.
+Student drawn to ML systems and desktop tools, purely for the fun of it. Based in <->, moving toward DevOps/MLOps, and I believe good infrastructure is the kind you never notice.
+I build things (yeah, sure) meant to be stable — infrastructure, ML pipelines, desktop tools, and sometimes things that probably shouldn't exist. What I'm into: ML/AI systems and desktop tools made so their own creator actually uses them.
 
 ---
 
@@ -92,9 +91,10 @@ I build things that run reliably — infrastructure, ML pipelines, desktop tools
 
 ## Outside the terminal
 
-Learning Japanese through immersion (MoeWay methodology) — somewhere between consistent and obsessive.
-3D printing mechanical models.
-Airsoft and milsim with a Russian-speaking team — tactics, coordination, gear that actually works.
+Learning Japanese, somewhere between disciplined and obsessed.
+3D printing little models, and sometimes I design them myself.
+Airsoft and milsim with a Russian-speaking team — I love weapons that don't cause lethal harm. I hate killing (irl), and if it happens on someone's orders, it's the one who gave the order who dies for it — principles matter above all.
+I dream of a home far from people, just me, my PC, and a cup of coffee.
 
 ---
 
